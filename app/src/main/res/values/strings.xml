@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">RealFileIO</string>
-    <string name="save">save</string>
-    <string name="load">load</string>
+    <string name="save">save file</string>
+    <string name="load">load file</string>
 </resources>
